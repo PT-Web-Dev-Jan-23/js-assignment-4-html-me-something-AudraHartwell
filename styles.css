@@ -1,1 +1,21 @@
 /* Write your CSS here! */
+html{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+p{
+    margin: auto;
+}
+html {
+padding: 25px,50px,25px,50px   
+}
+body {
+    margin: 8px;
+    display: block;
+    background-color:azure;
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green;
+}
